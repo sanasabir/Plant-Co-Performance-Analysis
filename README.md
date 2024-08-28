@@ -30,7 +30,7 @@ To set up and run this project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/plant-co-performance-analysis.git
+    git clone https://github.com/sanasabir/plant-co-performance-analysis.git
     cd plant-company-performance-analysis
     ```
    
